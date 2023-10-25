@@ -28,4 +28,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;  
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martaaoliveira&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=martaaoliveira&theme=dark&hide_current_streak=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martaaoliveira)](https://github.com/anuraghazra/github-readme-stats)
