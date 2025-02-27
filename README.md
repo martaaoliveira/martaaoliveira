@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/marta-oliveira-58b668197/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto:marta.alex@ua.pt">
+    <img src="https://img.shields.io/badge/Email-marta.alex%40ua.pt-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </div>  
 
 ---
@@ -15,7 +18,7 @@
 ### 👩‍💻 About Me  
 🎓 **Master’s Student in Computer Engineering** at **Aveiro University**  
 🔬 **Student Researcher at Instituto de Telecomunicações** | Focused on **IoT, Databases, and Data Visualization**  
-💡 Passionate about **software development and data management**  
+💡 Passionate about **software development, data management, and UI/UX design**  
 
 ---
 
@@ -50,6 +53,13 @@ My research focuses on making IoT systems more **efficient, scalable, and user-f
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>  
 
+#### **Additional Tools & Technologies**  
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Apache_Kafka_logo.svg/800px-Apache_Kafka_logo.svg.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Docker_logo.png/800px-Docker_logo.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mosquitto_logo.svg/800px-Mosquitto_logo.svg.png" title="Mosquitto" alt="Mosquitto" width="40" height="40"/>&nbsp;
+</div>  
+
 ---
 
 ### 📊 GitHub Stats  
@@ -60,4 +70,4 @@ My research focuses on making IoT systems more **efficient, scalable, and user-f
 
 ### 🔗 Connect With Me  
 💼 [LinkedIn](https://www.linkedin.com/in/marta-oliveira-58b668197/)  
-📧 Feel free to reach out!  
+📧 [Email me](mailto:marta.alex@ua.pt)  
