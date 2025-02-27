@@ -58,8 +58,8 @@ My research focuses on making IoT systems more **efficient, scalable, and user-f
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martaaoliveira&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
-### 🐍 GitHub Snake  
-![snake gif](https://github.com/martaaoliveira/martaaoliveira/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://raw.githubusercontent.com/{martaaoliveira}/{martaaoliveira}/output/github-contribution-grid-snake-dark.svg)
+
 ----
 ### 🔗 Connect With Me  
 💼 [LinkedIn](https://www.linkedin.com/in/marta-oliveira-58b668197/)  
