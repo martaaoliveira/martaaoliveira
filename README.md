@@ -13,11 +13,20 @@
 ---
 
 ### 👩‍💻 About Me  
-🎓 I'm currently finishing my **Master's Degree in Computer Engineering** at **Aveiro University**, exploring software development, AI, and innovative tech solutions.  
-💡 Passionate about full-stack development, UI/UX design, and problem-solving.  
-🚀 Currently working on **Flutter apps** and **React projects**!  
-🌱 Learning more about **DevOps** and **Cloud Computing**.  
-☕ Fun fact: I’m a coffee lover and enjoy designing user-friendly interfaces!  
+🎓 **Master’s Student in Computer Engineering** at **Aveiro University**  
+🔬 **Student Researcher at Instituto de Telecomunicações** | Focused on **IoT, Databases, and Data Visualization**  
+💡 Passionate about **software development, data management, and UI/UX design**  
+
+---
+
+### 🏆 Current Research & Thesis  
+At **Instituto de Telecomunicações**, I am working on **IoT data management and visualization**, contributing to:  
+✔️ **Database solutions for IoT networks** – Optimizing data storage & retrieval efficiency  
+✔️ **Scalable data processing systems** – Improving reliability and performance  
+✔️ **User interface & dashboard development** – Enhancing data visualization and accessibility  
+✔️ **Technical documentation & research presentations** – Effectively communicating findings  
+
+My research focuses on making IoT systems more **efficient, scalable, and user-friendly**, ensuring seamless integration between **data collection, storage, and visualization**.  
 
 ---
 
@@ -52,4 +61,3 @@
 ### 🔗 Connect With Me  
 💼 [LinkedIn](https://www.linkedin.com/in/marta-oliveira-58b668197/)  
 📧 Feel free to reach out!  
-
