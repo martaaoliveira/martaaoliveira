@@ -49,10 +49,7 @@ My research focuses on making IoT systems more **efficient, scalable, and user-f
   <img src="https://mosquitto.org/images/mosquitto-logo.svg" title="Mosquitto" alt="Mosquitto" width="40" height="40"/>&nbsp;  
 </div> 
 
-#### **Additional Tools & Technologies**  
-<div>
 
-</div>  
 
 ---
 
@@ -61,7 +58,9 @@ My research focuses on making IoT systems more **efficient, scalable, and user-f
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martaaoliveira&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
-
+### 🐍 GitHub Snake  
+![snake gif](https://github.com/martaaoliveira/martaaoliveira/blob/output/github-contribution-grid-snake.svg)  
+----
 ### 🔗 Connect With Me  
 💼 [LinkedIn](https://www.linkedin.com/in/marta-oliveira-58b668197/)  
 📧 [Email me](mailto:marta.alex@ua.pt)  
