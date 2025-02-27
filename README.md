@@ -1,6 +1,6 @@
 ### Hey there! 👋  
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlrNG1sNDI3cmhyY3E3OGVncXFvcTlkbGRnOTEzNmxpOXZ3NHhqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="200"/>
 </div>  
 
@@ -41,23 +41,17 @@ My research focuses on making IoT systems more **efficient, scalable, and user-f
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;  
-</div>  
-
-#### **Tools & Platforms**  
-<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-</div>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Apache_Kafka_logo.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://mosquitto.org/images/mosquitto-logo.svg" title="Mosquitto" alt="Mosquitto" width="40" height="40"/>&nbsp;  
+</div> 
 
 #### **Additional Tools & Technologies**  
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Apache_Kafka_logo.svg/800px-Apache_Kafka_logo.svg.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Docker_logo.png/800px-Docker_logo.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mosquitto_logo.svg/800px-Mosquitto_logo.svg.png" title="Mosquitto" alt="Mosquitto" width="40" height="40"/>&nbsp;
+
 </div>  
 
 ---
