@@ -50,9 +50,7 @@ documentation facilitating effective communication and dissemination of project 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mqtt/mqttorg-graphics/blob/master/svg/mqtt-icon-solid.svg" title="Mosquitto" alt="Mosquitto" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" title="ElasticSearch" alt="ElasticSearch" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/logstash/logstash-original-wordmark.svg" title="Logstash" alt="Logstash" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node JS " alt="Node js" width="40" height="40"/>&nbsp;  
 
   
