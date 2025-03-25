@@ -23,13 +23,16 @@
 ---
 
 ### 🏆 Current Research & Thesis  
-At **Instituto de Telecomunicações**, I am working on **IoT data management and visualization**, contributing to:  
-✔️ **Database solutions for IoT networks** – Optimizing data storage & retrieval efficiency  
-✔️ **Scalable data processing systems** – Improving reliability and performance  
-✔️ **User interface & dashboard development** – Enhancing data visualization and accessibility  
-✔️ **Technical documentation & research presentations** – Effectively communicating findings  
-
-My research focuses on making IoT systems more **efficient, scalable, and user-friendly**, ensuring seamless integration between **data collection, storage, and visualization**.  
+As a Student Researcher at the Institute of Telecommunications in University of Aveiro, I have been
+involved in implementing an IoT-based platform for forest fire monitoring and early warning
+detection.The monitoring platform is designed to achieve modularity, scalability, and reliability,
+ensuring the system’s capability to handle diverse sensor inputs and deliver actionable insights in
+real time.
+For the IT infrastructure, the platform employs a combination of technologies, including Apache
+Kafka, Mosquitto,ELK stack, N8n, Nginx, TTN, Chirpstack among others.
+Throughout the project, I actively participate in team meetings, collaborating closely with colleagues
+to align on project deliverables and objectives. Additionally, I am preparing detailed technical
+documentation facilitating effective communication and dissemination of project insights. 
 
 ---
 
