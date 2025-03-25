@@ -16,7 +16,7 @@
 ---
 
 ### 👩‍💻 About Me  
-🎓 **Master’s Student in Computer Engineering** at **Aveiro University**  
+🎓 **Master’s Student in Computer Engineering and Telematics** at **Aveiro University**  
 🔬 **Student Researcher at Instituto de Telecomunicações** | Focused on **IoT, Databases, and Data Visualization**  
 💡 Passionate about **software development and data management**  
 
