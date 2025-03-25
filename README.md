@@ -44,7 +44,9 @@ My research focuses on making IoT systems more **efficient, scalable, and user-f
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
+  <div style="background-color: white; display: inline-block; padding: 5px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
+  </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mqtt/mqttorg-graphics/blob/master/svg/mqtt-icon-solid.svg" title="Mosquitto" alt="Mosquitto" width="40" height="40"/>&nbsp;  
 </div> 
