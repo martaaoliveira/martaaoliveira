@@ -64,7 +64,7 @@ documentation facilitating effective communication and dissemination of project 
 
 ### Repositories  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=martaaoliveira&repo=UA-Course-MIECT&theme=react-dark&area=true&custom)](https://github.com/martaaoliveira/UA-Course-MIECT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=martaaoliveira&repo=UA-Course-MIECT)](https://github.com/martaaoliveira/UA-Course-MIECT)
 
 
 ---
