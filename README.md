@@ -59,6 +59,8 @@ documentation facilitating effective communication and dissemination of project 
 
 
 </div> 
+---
+### Repositories  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=martaaoliveira&repo=UA-Course-MIECT)](https://github.com/martaaoliveira/UA-Course-MIECT)
 
@@ -67,8 +69,8 @@ documentation facilitating effective communication and dissemination of project 
 
 ### 📊 GitHub Stats  
 [![Marta's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=martaaoliveira&theme=react-dark&area=true&custom_title=My%20GitHub%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martaaoliveira)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=martaaoliveira)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔗 Connect With Me  
 💼 [LinkedIn](https://www.linkedin.com/in/marta-oliveira-58b668197/)  
