@@ -13,7 +13,6 @@
   </a>
 </div>  
 
-![](https://komarev.com/ghpvc/?username=martaaoliveira)
 ---
 
 ### 👩‍💻 About Me  
