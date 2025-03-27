@@ -12,8 +12,8 @@
     <img src="https://img.shields.io/badge/Email-marta.alex%40ua.pt-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>  
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=martaaoliveira)
 
+![](https://komarev.com/ghpvc/?username=martaaoliveira)
 ---
 
 ### 👩‍💻 About Me  
