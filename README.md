@@ -65,7 +65,6 @@ documentation facilitating effective communication and dissemination of project 
 ---
 
 ### 📊 GitHub Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martaaoliveira&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![Marta's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=martaaoliveira&theme=react-dark&area=true&custom_title=My%20GitHub%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
