@@ -22,13 +22,6 @@
 
 ---
 
-### 🔗 Connect With Me  
-💼 [LinkedIn](https://www.linkedin.com/in/marta-oliveira-58b668197/)  
-📧 [Email me](mailto:marta.alex@ua.pt)  
-
-
----
-
 ### 🛠️ Technologies & Tools  
 #### **Languages & Frameworks**  
 <div>
