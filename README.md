@@ -22,17 +22,10 @@
 
 ---
 
-### 🏆 Current Research & Thesis  
-As a Student Researcher at the Institute of Telecommunications in University of Aveiro, I have been
-involved in implementing an IoT-based platform for forest fire monitoring and early warning
-detection.The monitoring platform is designed to achieve modularity, scalability, and reliability,
-ensuring the system’s capability to handle diverse sensor inputs and deliver actionable insights in
-real time.
-For the IT infrastructure, the platform employs a combination of technologies, including Apache
-Kafka, Mosquitto,ELK stack, N8n, Nginx, TTN, Chirpstack among others.
-Throughout the project, I actively participate in team meetings, collaborating closely with colleagues
-to align on project deliverables and objectives. Additionally, I am preparing detailed technical
-documentation facilitating effective communication and dissemination of project insights. 
+### 🔗 Connect With Me  
+💼 [LinkedIn](https://www.linkedin.com/in/marta-oliveira-58b668197/)  
+📧 [Email me](mailto:marta.alex@ua.pt)  
+
 
 ---
 
@@ -72,6 +65,4 @@ documentation facilitating effective communication and dissemination of project 
 ### 📊 GitHub Stats  
 [![Marta's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=martaaoliveira&theme=react-dark&area=true&custom_title=My%20GitHub%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🔗 Connect With Me  
-💼 [LinkedIn](https://www.linkedin.com/in/marta-oliveira-58b668197/)  
-📧 [Email me](mailto:marta.alex@ua.pt)  
+
