@@ -17,7 +17,7 @@
 
 ### 👩‍💻 About Me  
 🎓 **Master’s Student in Computer Engineering and Telematics** at **Aveiro University**  
-🔬 **Student Researcher at Instituto de Telecomunicações** | IoT based platform for forest fire monitoring and early warning detection.
+🔬 **Student Researcher at Instituto de Telecomunicações** | IoT based platform for forest fire monitoring and early warning detection. 
 💡 **Passionate about software development and data management** 
 
 ---
